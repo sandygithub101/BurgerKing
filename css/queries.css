@@ -1,0 +1,348 @@
+@media (max-width: 1260px){
+
+    .banner-glass img {
+        width: 80%;
+    }
+    
+    .banner-burger img {
+        width: 70%;
+    }
+
+    .banner-burger {
+        position: absolute;
+        right: 24px;
+        margin-top: 218px;
+    }
+
+    .banner-frenchfries img {
+        width: 80%;
+    }
+
+    .banner-frenchfries {
+        margin-top: 180px;
+        position: absolute;
+        right: 238px;
+    }
+
+    .circle-img{
+        right: 446px;
+    }
+   
+}
+
+
+
+@media (max-width: 1200px){
+
+    .most-pop {
+        font-size: 2.4rem;
+    }
+
+    .more-taste{
+        font-size: 2.4rem;
+    }
+
+    .discover-cont-1 .dis-cont {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+
+    .indicators-cont {
+        margin-top: 10px;
+        left: 30px;
+    }
+
+}
+
+@media (max-width: 1200px){
+
+    .banner-burger-content {
+        margin-top: 0px;
+        position: inherit;
+        height: auto;
+        width: 100%;
+        right: -25px;
+    }
+
+    .banner-frenchfries {
+       right: 238px;
+    }
+    
+    .banner-heading .burger-heading2 {
+        font-size: 90px;
+    }
+
+    .footer-cont img {
+        margin-top: 76px;
+        margin-left: 41px;
+        width: 312px;
+    }
+
+    .footer-p {
+        width: 416px;
+    }
+
+}
+
+@media (max-width: 1076px){
+
+    .banner-heading .banner-heading1 {
+        font-size: 17px;
+        line-height: 23px;
+        color: #3d2514;
+        width: 266px
+    }
+
+    .banner-heading .burger-heading2 {
+        font-size: 78px;
+    }
+
+}
+
+@media (max-width: 1036px){
+
+    .banner-heading .burger-heading2 {
+        font-size: 70px;
+    }
+
+    .burger-plate-img img {
+        margin-top: -214px;
+        width: 244px;
+    }
+
+}
+
+
+@media (max-width: 991px){
+
+    .header{
+        min-height: 600px
+    }
+
+    .delivery-logo{
+        justify-content: end!important;
+    }
+    
+    p{
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .navbar{
+        position: absolute;
+        right: 0rem;
+        margin-top: 24px;
+    }
+
+    .banner-heading{
+        display: flex;
+        flex-direction: column;
+        margin-top: 13.3rem;
+        padding: 5.7rem;
+        align-items: center;
+        margin-top: 35px;
+    }
+
+    .banner-burger-content{
+        display: none;
+    }
+
+    .banner-heading .banner-heading1 {
+        font-size: 22px;
+        line-height: 23px;
+        color: #3d2514;
+        width: 338px;
+    }
+    
+    .banner-heading .burger-heading2 {
+        font-size: 90px;
+    }
+
+    .most-popular-img img {
+        width: 100%;
+        height: 414px;
+        margin-bottom: 26px;
+    }
+
+    .most-pop {
+        font-size: 4.2rem;
+    }
+
+    .more-taste{
+        font-size: 4.2rem;
+    }
+
+    .discover-cont-1 {
+        padding-left: 30px;
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .indicators-cont {
+        display: none;
+    }
+
+    .group1 {
+        align-items: center;
+        margin-bottom: 22px;
+    }
+
+    .group2 {
+        align-items: center;
+    }
+
+    .book-table {
+        font-size: 32px;
+    }
+
+    .reserve-form {
+        font-size: 26px;
+    }
+
+    .side-burger {
+        position: absolute;
+        width: 272px
+    }
+
+    .burger-plate-img img {
+        margin-top: -144px;
+        width: 200px;
+    }
+
+    .bottle-img img {
+        left: 28px;
+    }
+
+
+    .footer-section {
+        width: 100%;
+        background-image: url(../img/footer-banner.png);
+        margin-top: 60px;
+        background-size: cover;
+        min-height: 676px;
+    }
+
+    .footer-cont {
+        margin-bottom: 40px;
+        text-align: center;
+    }
+
+    .footer-cont img {
+        margin-top: 76px;
+        margin-left: 0px
+    }
+
+    .footer-p {
+        width: 100%;
+        margin-left: 0px
+    }
+
+    .copyright{
+        margin-top: 60px;
+        margin-left: 0px
+    }
+
+    .contact-us {
+        margin-top: 0px;
+        left: 0px;
+        position: relative;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .contact-us span {
+        /* float: left; */
+        margin-left: 0px;
+    }
+
+    .social-icons {
+        display: flex;
+        bottom: 30px;
+        gap: 10px;
+        justify-content: center;
+        position: relative;
+        margin-top: 35px;
+        left: 0px;
+    }
+
+}
+
+
+@media (max-width: 767px){
+
+    .choose-burger-cont {
+        margin-bottom: 24px;
+    }
+
+    .most-pop {
+        font-size: 2.9rem;
+    }
+
+    .more-taste {
+        font-size: 2.9rem;
+    }
+
+    .main-logo {
+        margin-top: 5.2rem;
+        text-align: center;
+    }
+
+    .delivery-logo{
+        justify-content: center!important;
+        margin-top: 1.2rem;
+    }
+    
+    .banner-heading{
+        margin-top: 0px;
+        padding: 2rem
+    }
+
+    .banner-heading .burger-heading2{
+        font-size: 70px;
+    }
+
+    .banner-heading .week-heading3 {
+        font-size: 40px;
+    }
+
+}
+
+@media (max-width: 692px){
+
+    .side-burger {
+        margin-top: -66px;
+        position: absolute;
+        width: 212px;
+    }
+
+    .book-table {
+        font-size: 24px;
+    }
+
+    .bottle-img img {
+        position: absolute;
+        margin-top: -70px;
+        width: 230px;
+        left: 10px;
+    }    
+
+    .burger-plate-img img {
+        margin-top: -115px;
+        width: 184px;
+    }
+
+}
+
+
+@media (max-width: 576px){
+    .side-burger{
+        display: none;
+    }
+    .bottle-img img{
+        display: none;
+    }
+    .burger-plate-img img{
+        display: none;
+    }
+}
